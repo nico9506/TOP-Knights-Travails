@@ -1,0 +1,12 @@
+{
+  "name": "top-knights-travails",
+  "version": "1.0.0",
+  "description": "Practice of graphs",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node graph.test.js"
+  },
+  "author": "Nicolas Lopez",
+  "license": "ISC"
+}
